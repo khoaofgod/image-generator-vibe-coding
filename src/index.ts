@@ -8,8 +8,8 @@ import * as fs from "node:fs";
 import * as path from "node:path";
 
 const MODELS: Record<string, string> = {
-  flash: "gemini-2.5-flash-preview-image-generation",
-  pro: "gemini-2.0-flash-exp",
+  flash: "gemini-2.5-flash-image",
+  pro: "gemini-3-pro-image-preview",
 };
 
 const IMAGE_SIZES: Record<string, { width: number; height: number }> = {

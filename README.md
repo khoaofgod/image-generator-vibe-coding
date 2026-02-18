@@ -6,8 +6,8 @@ An MCP (Model Context Protocol) server for AI image generation using Google Gemi
 
 | Name | Model | Best For |
 |---|---|---|
-| Nano Banana (flash) | `gemini-2.5-flash-preview-image-generation` | Fast, high-volume generation |
-| Nano Banana Pro | `gemini-2.0-flash-exp` | High quality output |
+| Nano Banana (flash) | `gemini-2.5-flash-image` | Fast, high-volume generation |
+| Nano Banana Pro | `gemini-3-pro-image-preview` | High quality output |
 
 ## Setup
 
