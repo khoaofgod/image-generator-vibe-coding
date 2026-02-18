@@ -72,7 +72,7 @@ server.tool(
       .describe("Aspect ratio of the generated image"),
     imageSize: z
       .enum(["1K", "2K", "4K"])
-      .default("1K")
+      .default("2K")
       .describe("Resolution of the generated image"),
     outputDir: z
       .string()
